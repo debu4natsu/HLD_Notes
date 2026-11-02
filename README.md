@@ -1,3 +1,3 @@
 # High-Level Design
 
-Welcome to the High-Level Design (HLD) documentation repository. This directory contains system architecture diagrams, infrastructure flowcharts, network topology maps, and design specifications for our distributed web application.
+Welcome to my personal learning space! This folder is where I sketch out, experiment with, and break down how scalable systems, networks, and web architectures actually work behind the scenes. 
